@@ -33,6 +33,8 @@ Analyze facebook copy of your data. Download zip file from facebook and get info
 
 ** Enjoy! **
 
+# Contributing
 
+Please consider running your changes with `ruby benchmark.rb [PATH_TO_YOUR_FACEBOOK_ARCHIVE]` before making a pull request. Changes that significantly slow this project may be rejected
 
 # Sorry for code quality, it was proof of concept. It will be refactored in the future.
